@@ -15,6 +15,7 @@ public class TestController {
 		System.out.println("Appel GET");
 		System.out.println("value : "+value);
 		
+		
 
 		return value;
 	}
